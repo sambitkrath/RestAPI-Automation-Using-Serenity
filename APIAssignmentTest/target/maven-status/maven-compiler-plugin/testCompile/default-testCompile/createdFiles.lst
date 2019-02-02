@@ -1,0 +1,4 @@
+com\restapi\junit\automation\APITestAutomation.class
+com\restapi\cucumber\serenity\APISerenitySteps.class
+com\restapi\testbase\TestBase.class
+com\restapi\utils\ReuseableSpecifications.class

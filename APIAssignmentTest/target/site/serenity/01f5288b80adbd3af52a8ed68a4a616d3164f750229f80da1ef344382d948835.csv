@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"API test automation","This test will validate CanRelist as true","SUCCESS","2019-02-02T14:42:49.201-08:00","0.0","2.81"
+"API test automation","This test will validate Description of Promotion Element contains text '2x larger image","SUCCESS","2019-02-02T14:42:52.013-08:00","0.0","2.37"
+"API test automation","This test will validate Name as Carbon Credits","SUCCESS","2019-02-02T14:42:18.191-08:00","0.0","30.05"
